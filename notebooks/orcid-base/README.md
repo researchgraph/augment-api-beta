@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/front-matter/notebooks/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/researchgraph/augment-api-beta/notebooks/orcid-base/main)
 
-## Front Matter Notebooks
+## ResearchGraph Notebook orcid-base
 
-Jupyter Notebooks for Front Matter
+Jupyter Notebooks using the ResearchGraph Augment API.
