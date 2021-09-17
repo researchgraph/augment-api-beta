@@ -1,0 +1,10 @@
+site_name: Augment API Documentation
+theme:
+  name: material
+nav:
+- Home: index.md
+- Notebooks: orcid-base/index.ipynb
+- Python file: python_script.py
+
+plugins:
+  - mkdocs-jupyter
