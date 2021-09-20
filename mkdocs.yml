@@ -3,7 +3,6 @@ site_description: Augment API Documentation
 repo_url: https://github.com/researchgraph/augment-api-beta/
 theme:
   name: material
-  locale: en
 nav:
 - Home: index.md
 - Reference: reference.md
