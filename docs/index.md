@@ -1,17 +1,13 @@
 # Welcome to the Augment API Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## What is Augment API?
 
-## Commands
+The Research Graph Augment API transforms disconnected research information to a connected graph, and augment this graph with the data from the global network of scholarly works. Augment API leverages the Research Graph distributed network and persistent identifiers to establish connections between publications, researchers, research datasets and grants across global infrastructures such as DataCite and open access initiatives such as Scholix.
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+![](images/augment-api-figure.gif)
 
-## Project layout
+The Augment API provides cloud hosted functions to enable three transformations.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Build Graph: Transform disconnected bibliographic records to a connected graph
+- Augment: Transform the graph with data from Research Graph clusters and the global research data infrastructures.
+- Create Open Graphs: Transform the augmented graph to interoperable formats such as VIVO RDF, GraphML and JSON.

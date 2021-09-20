@@ -3,8 +3,8 @@ theme:
   name: material
 nav:
 - Home: index.md
-- Notebooks: orcid-base/index.ipynb
-- Python file: python_script.py
+- Reference: reference.md
+- Example Notebooks: notebooks/base.ipynb
 
 plugins:
   - mkdocs-jupyter
