@@ -1,12 +1,14 @@
-site_name: Augment API
+site_name: Research Graph Augment API
 site_description: Augment API Documentation
 repo_url: https://github.com/researchgraph/augment-api-beta/
 theme:
   name: material
 nav:
-- Home: index.md
+- Introduction: index.md
 - Reference: reference.md
-- Example Notebooks: notebooks/base.ipynb
+- Example Notebooks: 
+    - Fetch metadata for ORCID ID: notebooks/orcid.ipynb
+    - Fetch metadata for DOI: notebooks/doi.ipynb
 
 plugins:
   - mkdocs-jupyter
