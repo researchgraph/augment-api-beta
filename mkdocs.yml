@@ -1,15 +1,44 @@
 site_name: Research Graph Augment API
 site_description: Augment API Documentation
 repo_url: https://github.com/researchgraph/augment-api-beta/
+
 theme:
   name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: deep orange
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: deep orange
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 nav:
 - Introduction: index.md
-- Reference: reference.md
 - Example Notebooks: 
     - Fetch metadata for ORCID ID: notebooks/orcid.ipynb
     - Fetch metadata for DOI: notebooks/doi.ipynb
+    - Publications by author: notebooks/publications.ipynb
+    - Co-authors and affiliations by author: notebooks/affiliations.ipynb
 
 plugins:
   - mkdocs-jupyter
   - search
+
+markdown_extensions:
+  - meta
+  - pymdownx.critic:
+      mode: view
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/researchgraph
+    - icon: fontawesome/brands/github
+      link: https://github.com/researchgraph
+    - icon: fontawesome/brands/slack
+      link: https://researchgraph.slack.com
