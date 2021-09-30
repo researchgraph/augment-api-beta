@@ -1,5 +1,5 @@
-site_name: Research Graph Augment API
-site_description: Augment API Documentation
+site_name: Research Graph Augment API Beta
+site_description: Augment API Beta Documentation
 repo_url: https://github.com/researchgraph/augment-api-beta/
 
 theme:
