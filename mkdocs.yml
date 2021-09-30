@@ -39,6 +39,6 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/researchgraph
     - icon: fontawesome/brands/github
-      link: https://github.com/researchgraph
-    - icon: fontawesome/brands/slack
-      link: https://researchgraph.slack.com
+      link: https://github.com/researchgraph/augment-api-beta
+    - icon: fontawesome/solid/comments
+      link: https://github.com/researchgraph/augment-api-beta/discussions
