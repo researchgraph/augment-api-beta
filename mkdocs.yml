@@ -31,6 +31,7 @@ plugins:
 
 markdown_extensions:
   - meta
+  - attr_list
   - admonition
   - pymdownx.superfences
   - pymdownx.critic:

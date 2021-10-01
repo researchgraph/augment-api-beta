@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2021-09-30">
+  <meta lastmodifieddate="2021-10-01">
     <creator>NetworkX 2.6.2</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -807,12 +807,6 @@
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
-      <node id="Q564783" label="Q564783">
-        <attvalues>
-          <attvalue for="0" value="Göttingen State and University Library" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
       <node id="Q1859178" label="Q1859178">
         <attvalues>
           <attvalue for="0" value="University of Strathclyde" />
@@ -915,12 +909,6 @@
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
-      <node id="Q7896481" label="Q7896481">
-        <attvalues>
-          <attvalue for="0" value="University of Toronto Faculty of Arts and Science" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
       <node id="Q154561" label="Q154561">
         <attvalues>
           <attvalue for="0" value="University of Jena" />
@@ -960,12 +948,6 @@
       <node id="Q152087" label="Q152087">
         <attvalues>
           <attvalue for="0" value="Humboldt University of Berlin" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
-      <node id="Q7653715" label="Q7653715">
-        <attvalues>
-          <attvalue for="0" value="Swansea University Medical School" />
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
@@ -1317,12 +1299,6 @@
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
-      <node id="Q7896482" label="Q7896482">
-        <attvalues>
-          <attvalue for="0" value="University of Toronto Faculty of Information" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
       <node id="Q1145497" label="Q1145497">
         <attvalues>
           <attvalue for="0" value="Curtin University" />
@@ -1335,12 +1311,6 @@
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
-      <node id="Q2422744" label="Q2422744">
-        <attvalues>
-          <attvalue for="0" value="SURF (Samenwerkende Universitaire Rekenfaciliteiten)" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
       <node id="Q1971174" label="Q1971174">
         <attvalues>
           <attvalue for="0" value="University of South Wales" />
@@ -1350,12 +1320,6 @@
       <node id="Q1737734" label="Q1737734">
         <attvalues>
           <attvalue for="0" value="University of Keele" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
-      <node id="Q49123" label="Q49123">
-        <attvalues>
-          <attvalue for="0" value="Harvard College" />
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
@@ -1428,12 +1392,6 @@
       <node id="Q865528" label="Q865528">
         <attvalues>
           <attvalue for="0" value="University of Warwick" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
-      <node id="Q99285271" label="Q99285271">
-        <attvalues>
-          <attvalue for="0" value="New York University in London" />
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
@@ -1569,21 +1527,9 @@
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
-      <node id="Q188617" label="Q188617">
-        <attvalues>
-          <attvalue for="0" value="Kew Gardens" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
       <node id="Q519349" label="Q519349">
         <attvalues>
           <attvalue for="0" value="Southern Illinois University Edwardsville" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
-      <node id="Q99284970" label="Q99284970">
-        <attvalues>
-          <attvalue for="0" value="Simon Fraser University - Vancouver" />
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
@@ -1677,12 +1623,6 @@
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
-      <node id="Q1155944" label="Q1155944">
-        <attvalues>
-          <attvalue for="0" value="Paris Descartes University" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
       <node id="Q153012" label="Q153012">
         <attvalues>
           <attvalue for="0" value="University of Potsdam" />
@@ -1746,12 +1686,6 @@
       <node id="Q219563" label="Q219563">
         <attvalues>
           <attvalue for="0" value="University of Washington" />
-          <attvalue for="1" value="xkcd:vivid purple" />
-        </attvalues>
-      </node>
-      <node id="Q49121" label="Q49121">
-        <attvalues>
-          <attvalue for="0" value="Harvard Medical School" />
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
@@ -2007,6 +1941,17 @@
           <attvalue for="1" value="xkcd:vivid purple" />
         </attvalues>
       </node>
+      <node id="Q49123" label="Q49123" />
+      <node id="Q2422744" label="Q2422744" />
+      <node id="Q1155944" label="Q1155944" />
+      <node id="Q99285271" label="Q99285271" />
+      <node id="Q7896482" label="Q7896482" />
+      <node id="Q7896481" label="Q7896481" />
+      <node id="Q7653715" label="Q7653715" />
+      <node id="Q188617" label="Q188617" />
+      <node id="Q564783" label="Q564783" />
+      <node id="Q99284970" label="Q99284970" />
+      <node id="Q49121" label="Q49121" />
     </nodes>
     <edges>
       <edge source="0000-0002-9300-5278" target="0000-0002-0068-716X" id="0" />
