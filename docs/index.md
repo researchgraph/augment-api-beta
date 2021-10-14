@@ -14,6 +14,7 @@
 2. Put the `API_KEY` into a `.env` file in the `Notebooks` folder. The file should include the line `API_KEY=YOURVALIDAPIKEY`, where your API has replaced the string `YOURVALIDAPIKEY`.
 3. Install all Python dependencies by running `pip install -r requirements.txt` from the command line within your `notebooks` folder.
 4. Start the notebooks by running `jupyter lab` from the command line within your `notebooks` folder.
+5. Start running a specific notebook by highlighting that notebook and clicking `Run All Cells` in the top menu.
 
 ## What is Augment API?
 
