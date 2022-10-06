@@ -39,7 +39,7 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: fontawesome/solid/home
+    - icon: fontawesome/solid/house
       link: https://researchgraph.org/
     - icon: fontawesome/brands/github
       link: https://github.com/researchgraph/augment-api-beta
